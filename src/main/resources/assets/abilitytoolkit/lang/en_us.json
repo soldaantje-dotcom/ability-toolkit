@@ -1,0 +1,28 @@
+{
+  "key.category.abilitytoolkit.main": "Ability Toolkit",
+  "key.abilitytoolkit.open_menu": "Open Ability Menu",
+  "key.abilitytoolkit.toggle_no_knockback": "Toggle No Knockback",
+  "key.abilitytoolkit.toggle_flight": "Toggle Flight",
+  "key.abilitytoolkit.toggle_speed": "Toggle Speed Boost",
+
+  "abilitytoolkit.screen.title": "Ability Toolkit",
+  "abilitytoolkit.ability.no_knockback": "No Knockback",
+  "abilitytoolkit.ability.flight": "Flight",
+  "abilitytoolkit.ability.speed": "Speed Boost",
+  "abilitytoolkit.state.on": "ON",
+  "abilitytoolkit.state.off": "OFF",
+  "abilitytoolkit.state.locked": "LOCKED",
+  "abilitytoolkit.button.ability": "%s: %s",
+  "abilitytoolkit.button.hud": "HUD: %s",
+  "abilitytoolkit.slider.speed": "Speed Level %s (x%s)",
+  "abilitytoolkit.hud.speed": "%s x%s (level %s)",
+  "abilitytoolkit.hud.locked": "%s (not authorized)",
+  "abilitytoolkit.flash.on": "%s enabled",
+  "abilitytoolkit.flash.off": "%s disabled",
+  "abilitytoolkit.flash.locked": "%s is not authorized on this server",
+  "abilitytoolkit.status.no_server_mod": "This server does not run Ability Toolkit: all abilities are locked.",
+  "abilitytoolkit.status.denied": "The server has not authorized you: all abilities are locked.",
+  "abilitytoolkit.status.granted": "Server grants - Knockback: %s, Flight: %s, Speed: %s (max level %s)",
+  "abilitytoolkit.yes": "yes",
+  "abilitytoolkit.no": "no"
+}

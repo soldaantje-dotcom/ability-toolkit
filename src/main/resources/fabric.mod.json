@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "abilitytoolkit",
+  "version": "${version}",
+  "name": "Ability Toolkit",
+  "description": "Educational mod: server-authorized No Knockback, Flight and Speed Boost with keybinds, a settings GUI, a HUD and saved config.",
+  "authors": ["Your Name"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.abilitytoolkit.AbilityToolkit"],
+    "client": ["com.example.abilitytoolkit.client.AbilityToolkitClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
